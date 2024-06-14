@@ -1,12 +1,3 @@
-# Mi Prototipo 1 para trabajar con Git
-## Concepto
-Este es mi repositorio para **verificar** y **trabajar** con mis companeros remotamente
+# Prototype
 
-> Unity es fenomenal
-
-Este es un ejemplo de un codigo en archivo READ.md
-```
-git status
-git add
-git commit
-```
+**Este repositorio tiene como objetivo probar las aplicaciones de Git y ~~Github~~ GitHub, _ademas_ de revisar los sintaxis de texto que permite este sitio web. 
